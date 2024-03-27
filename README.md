@@ -14,6 +14,7 @@ Your support means the world to me!
 
 This is a companion project for my YouTube tutorial about bridging C++ to Python with `pybind11`.
 
+https://youtu.be/q_bne9UvjAI
 
 ## License
 
