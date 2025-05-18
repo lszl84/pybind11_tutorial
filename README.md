@@ -5,6 +5,6 @@ This is a companion project for my YouTube tutorial about bridging C++ to Python
 Full Tutorial: [https://youtu.be/q_bne9UvjAI](https://youtu.be/q_bne9UvjAI)
 
 ---
-Check out the blog for more! [www.lukesdevtutorials.com](https://www.lukesdevtutorials.com)
+Check out the blog for more! [www.onlyfastcode.com](https://www.onlyfastcode.com)
 ---
 
